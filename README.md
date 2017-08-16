@@ -1,5 +1,9 @@
 # dag.js
 
+[![npm version](https://badge.fury.io/js/dagjs.svg)](https://badge.fury.io/js/dagjs)
+[![Build Status](https://travis-ci.org/cjongseok/dag.js.svg?branch=master)](https://travis-ci.org/cjongseok/dag.js)
+[![Coverage Status](https://coveralls.io/repos/github/cjongseok/dag.js/badge.svg?branch=master)](https://coveralls.io/github/cjongseok/dag.js?branch=master)
+
 Simple DAG (Directed Acyclic Graph) module with edge tagging.
 
 
