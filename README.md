@@ -7,13 +7,20 @@
 Simple DAG (Directed Acyclic Graph) module with edge tagging.
 
 
+### Install
+```sh
+$ npm install dagjs
+```
+
+
 ### Usage
 ```javascript
-let Dag = require('dag');
+let Dag = require('dagjs');
 
 let dag = new Dag();
 // ...
 ```
+
 
 ### Examples
 
