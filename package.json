@@ -1,6 +1,6 @@
 {
   "name": "dagjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simiple DAG (Directed Acyclic Graph) module with edge tagging",
   "main": "index.js",
   "directories": {
