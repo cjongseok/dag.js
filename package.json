@@ -1,6 +1,6 @@
 {
   "name": "dagjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simiple DAG (Directed Acyclic Graph) module with edge tagging",
   "main": "index.js",
   "directories": {
@@ -22,9 +22,25 @@
     "graph"
   ],
   "author": "Jongseok Choi <cjongseok@gmail.com> (https://jongseok.com)",
-  "license": "APACHE2.0",
+  "license": "MIT",
   "dependencies": {
     "es6-error": "^4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/cjongseok/dag.js/issues",
+    "email": "cjongseok@gmail.com"
+  },
+  "homepage": "https://github.com/cjongseok/dag.js",
+  "keywords": [
+    "dag",
+    "directed",
+    "acyclic",
+    "graph",
+    "edge tagging"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjongseok/dag.js.git"
   },
   "devDependencies": {
     "chai": "^4.1.1",
