@@ -1,19 +1,19 @@
-# dag.js
+dag.js [![npm version](https://badge.fury.io/js/dagjs.svg)](https://badge.fury.io/js/dagjs) [![Build Status](https://travis-ci.org/cjongseok/dag.js.svg?branch=master)](https://travis-ci.org/cjongseok/dag.js) [![Coverage Status](https://coveralls.io/repos/github/cjongseok/dag.js/badge.svg?branch=master)](https://coveralls.io/github/cjongseok/dag.js?branch=master)
+======
 
-[![npm version](https://badge.fury.io/js/dagjs.svg)](https://badge.fury.io/js/dagjs)
-[![Build Status](https://travis-ci.org/cjongseok/dag.js.svg?branch=master)](https://travis-ci.org/cjongseok/dag.js)
-[![Coverage Status](https://coveralls.io/repos/github/cjongseok/dag.js/badge.svg?branch=master)](https://coveralls.io/github/cjongseok/dag.js?branch=master)
 
 Simple DAG (Directed Acyclic Graph) module with edge tagging.
 
 
-### Install
+Install
+-------
 ```sh
 $ npm install dagjs
 ```
 
 
-### Usage
+Usage
+-----
 ```javascript
 let Dag = require('dagjs');
 
@@ -21,8 +21,10 @@ let dag = new Dag();
 // ...
 ```
 
+[![Analytics](https://ga-beacon.appspot.com/UA-104778232-1/dag.js/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
 
-### Examples
+Examples
+--------
 
 Adding edges:
 ```javascript
